@@ -1,0 +1,46 @@
+.card-list{
+    text-align: -webkit-center;
+    margin: 50px 0px;
+}
+
+.defi-card{
+    margin-bottom: 25px;;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    color: black !important;
+    max-width:80%;
+    /* background-color: #FFEABE !important; */
+   
+    opacity: 0.9 !important;
+    transition: all 0.5s ease 0s !important;
+    height: 100% !important;
+    /* max-width:20em !important; */
+}
+.defi-card:hover {
+    transform: scale(1.02) !important;
+    overflow: hidden !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+.defi1{
+    background-image: url(../Assets/defi1.png);
+    background-repeat: no-repeat;
+    background-size: 80em ;
+    background-position: center;
+}
+.defi2{
+    background-image: url(../Assets/defi2.png);
+    background-repeat: no-repeat;
+    background-size: 80em ;
+    background-position: center;
+}
+.defi3{
+    background-image: url(../Assets/defi3.png);
+    background-repeat: no-repeat;
+    background-size: 80em ;
+    background-position: center;
+}
+.defi4{
+    background-image: url(../Assets/defi4.png);
+    background-repeat: no-repeat;
+    background-size: 80em ;
+    background-position: center;
+}

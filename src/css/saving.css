@@ -1,0 +1,18 @@
+.savingcard4{
+    width: -webkit-fill-available;
+}
+
+@media (max-width: 767px) {
+    .savingcardLogo {
+        display: none !important;
+    }
+}
+.savingLeftPart{
+    text-align: left;
+    padding: 30px 50px;
+}
+@media (max-width: 767px) {
+    .savingLeftPart {
+        text-align: center !important;
+    }
+}

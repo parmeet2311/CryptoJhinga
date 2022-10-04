@@ -1,0 +1,102 @@
+.WorkCover{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: linear-gradient(to bottom right, white, rgb(255 0 149 / 9%));
+}
+.CoinCover{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../Assets1/Jhinga-GamingBackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.workSection{
+    text-align: -webkit-center;
+}
+.chartFont{
+    color:#FFA000;
+}
+.table-heading{
+    font-size: 0.75em;
+    font-weight: bold;
+}
+.table-content{
+    font-size: 0.75em;
+}
+
+.paginationBttns{
+    margin-top: 25px;
+    display: flex !important;
+    justify-content: space-evenly;
+}
+
+.Work-header{
+    text-align: left!important;
+    padding:100px !important;
+}
+.work-heading-name{
+    font-size: 2em !important;
+    line-height: inherit !important;
+}
+.work-heading {
+    font-size: 1.3em !important;
+}
+.table-card{
+    width: 80% !important;
+    /* min-height: 30rem !important; */
+    padding-bottom: 20px;
+    max-width: 100% !important;
+    height: fit-content !important;
+    background-color: white !important;
+    border-radius: 10px !important;
+    margin-bottom: 5rem !important;
+    margin: 2rem 2rem 5rem 2rem;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 5px;
+
+}
+.coin-card{
+    width: 25em !important;
+    /* min-height: 30rem !important; */
+    padding-bottom: 20px;
+    max-width: 100% !important;
+    height: auto !important;
+    top: -10px;
+    position: absolute;
+    background-color: white !important;
+    border-radius: 10px !important;
+    margin-bottom: 5rem !important;
+    margin: 2rem 2rem 5rem 2rem;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 5px;    
+
+}
+.coin-card-1{
+    width: 25em !important;
+    /* min-height: 30rem !important; */
+    padding-bottom: 20px;
+    max-width: 100% !important;
+    height: auto !important;
+    /* top: -10px; */
+    /* position: absolute; */
+    background-color: white !important;
+    border-radius: 10px !important;
+    margin-bottom: 5rem !important;
+    margin: 2rem 2rem 5rem 2rem;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-radius: 5px;    
+
+}
+.coverTable{
+    display: flex;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+    justify-content: space-between;
+}
+/* a:hover{
+    color: grey !important;
+} */
+.table-row:hover{
+    background-color: rgba(0, 0, 0, 0.103);
+}
