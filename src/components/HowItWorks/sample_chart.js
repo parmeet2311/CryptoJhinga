@@ -3,7 +3,7 @@ import { Line } from 'react-chartjs-2';
 import { Chart, registerables } from 'chart.js';
 import { useMoralis, useTokenPrice } from "react-moralis";
 import axios from "axios"
-import Select from 'react-select'
+// import Select from 'react-select'
 import { Container, Row, Col, Button } from "react-bootstrap";
 
 
