@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  
+
+}
+*{
+  margin: 0;
+  padding:0
 }
 
 .App-logo {
@@ -36,3 +42,12 @@
     transform: rotate(360deg);
   }
 }
+
+.nextBttn ,.previousBttn{
+  text-decoration: none;
+  color: rgb(27, 26, 26);
+  /* border: 2px solid red; */
+}
+/* tbody>tr{
+  cursor: pointer;
+} */
